@@ -1,6 +1,6 @@
 # Food-Order Platform
 This project is the result of the course "Computer Networks" where we were allowed to work in a group of 2 within exactly 4 weeks to create a platform that allows users (or clients) to set up connections to the server side to order food.
-This app is MFC-based and was coded up using Visual Studio 2022.
+This app is MFC-based and was coded up using Visual Studio 2022. All functions related to the database were supported by Microsoft Access.
 
 Client-side interface:
 
